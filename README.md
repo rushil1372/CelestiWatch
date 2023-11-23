@@ -10,3 +10,7 @@ Embark on a cosmic journey with CelestiWatch, a cutting-edge Text-Based User Int
 3. Calendar Alchemy: Transform your everyday Gregorian date into a swanky, retro Julian date, or vice versa.
 
 Explore. Experience. Embrace the Celestial. 🚀🌌
+
+Demo : 
+
+![celestiwatch](https://github.com/rushil1372/CelestiWatch/assets/16163761/278c027a-81cd-4a54-90ab-9f0aa38c902d)
