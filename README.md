@@ -11,6 +11,11 @@ Embark on a cosmic journey with CelestiWatch, a cutting-edge Text-Based User Int
 
 Explore. Experience. Embrace the Celestial. 🚀🌌
 
-Demo : 
+## Use : 
+
+1. git clone https://github.com/rushil1372/CelestiWatch.git
+2. go run .
+
+## Demo : 
 
 ![celestiwatch](https://github.com/rushil1372/CelestiWatch/assets/16163761/278c027a-81cd-4a54-90ab-9f0aa38c902d)
